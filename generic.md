@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education
-description: Yale University       Master of Science in Computer Science       Jan 2022-Dec 2022 (expected)<br />Michigan State University       Bachelor of Science in Computer Science       Aug 2017-Dec 2021
+description: Yale University       MS in Computer Science       Jan 2022-Dec 2022<br />Michigan State University       BS in Computer Science       Aug 2017-Dec 2021
 
 image: assets/images/pic11.jpg
 nav-menu: true
