@@ -1,7 +1,7 @@
 ---
 title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+layout: EMPLOYMENT
+description: 'Intern Software Engineer in Senior Capstone Project, TechSmith, Michigan<br />Co-founder, Bicon Xinrongti, China<br />Intern in R & D, Youshi Medical (Suzhou) Ltd., China'
 image: assets/images/child.jpg
 nav-menu: true
 ---
