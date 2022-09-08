@@ -3,10 +3,9 @@ layout: post
 title: Education
 description: 
 Yale University, CT, USA       Master of Science in Computer Science       Jan 2022-Dec 2022 (expected)
-
 Michigan State University, MI, USA       Bachelor of Science in Computer Science       Aug 2017-Dec 2021
 
-image: assets/images/IMG_4847.jpg
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
