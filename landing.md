@@ -2,7 +2,7 @@
 title: Employment
 layout: landing
 description: 'Intern Software Engineer in Senior Capstone Project, TechSmith, Michigan<br />Co-founder, Bicon Xinrongti, China<br />Intern in R & D, Youshi Medical (Suzhou) Ltd., China'
-image: assets/images/pic07.jpg
+image: assets/images/ocean.jpg
 nav-menu: true
 ---
 
