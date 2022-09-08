@@ -35,9 +35,6 @@ nav-menu: true
 					<h3>TechSmith, Michigan, USA</h3>
 				</header>
 				<p>Deployed and hosted static web resources on the template creator platform to create the HTML end<br />Created and managed table data uses Microsoft Azure service for data storage and sign-in<br />Added dynamic interactivity to the static webpage via Javascript programming<br />Output: Winner of the Design Day MSU Federal Credit Union Praxis Award</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -51,7 +48,7 @@ nav-menu: true
 		</header>
 		<p>Participated in the industry technology development and analysis projects in the field of medical big data<br />Optimized and maintained data analysis platform<br />Investigated and analyzed the demand of products and systems</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">learn more about eduacation</a></li>
 		</ul>
 	</div>
 </section>
