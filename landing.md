@@ -48,7 +48,7 @@ nav-menu: true
 		</header>
 		<p>Participated in the industry technology development and analysis projects in the field of medical big data<br />Optimized and maintained data analysis platform<br />Investigated and analyzed the demand of products and systems</p>
 		<ul class="actions">
-			<li><a href="home.html" class="button next">back</a></li>
+			<li><a href="allposts.html" class="button next">back</a></li>
 		</ul>
 	</div>
 </section>
