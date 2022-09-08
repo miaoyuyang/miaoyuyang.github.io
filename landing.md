@@ -47,9 +47,6 @@ nav-menu: true
 			<h2>Intern in R & D, Youshi Medical (Suzhou) Ltd., China</h2>
 		</header>
 		<p>Participated in the industry technology development and analysis projects in the field of medical big data<br />Optimized and maintained data analysis platform<br />Investigated and analyzed the demand of products and systems</p>
-		<ul class="actions">
-			<li><a href="allposts.html" class="button next">back</a></li>
-		</ul>
 	</div>
 </section>
 
