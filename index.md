@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Miaoyu Yang'
+landing-title: 'Hello, I'm Miaoyu Yang'
 description: null
 image: null
 author: null
 show_tile: false
 ---
-Miaoyu Yang Miaoyu Yang
+Spend your life in your own way.
