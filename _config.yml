@@ -3,7 +3,7 @@ title: Welcome to
 subtitle: Miaoyu's World
 email: xiaotuoxie616@gmail.com
 description: 一切都是最好的安排
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/miaoyu-blog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 91 Mansfiled St
