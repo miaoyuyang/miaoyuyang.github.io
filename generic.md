@@ -6,7 +6,7 @@ Yale University, CT, USA       Master of Science in Computer Science       Jan 2
 
 Michigan State University, MI, USA       Bachelor of Science in Computer Science       Aug 2017-Dec 2021
 
-image: assets/images/pic11.jpg
+image: assets/images/IMG_4847.jpg
 nav-menu: true
 ---
 
