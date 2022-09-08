@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education
-description: Yale University, MS in Computer Science, Jan 2022-Dec 2022<br /><br />Michigan State University, BS in Computer Science, Aug 2017-Dec 2021<br /><br /><br />Honors & Awards: Graduate with honors (2021); Undergraduate diploma project: MSU Federal Credit Union Praxis Award; Dean's list (each term)  
+description: Yale University, MS in Computer Science, Jan 2022-Dec 2022<br />Michigan State University, BS in Computer Science, Aug 2017-Dec 2021<br />Honors & Awards: Graduate with honors (2021); Undergraduate diploma project: MSU Federal Credit Union Praxis Award; Dean's list (each term)  
 
 image: assets/images/pic11.jpg
 nav-menu: true
