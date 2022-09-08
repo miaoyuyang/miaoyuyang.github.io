@@ -1,4 +1,6 @@
 # site settings
+title: Welcome to
+subtitle: Miaoyu's World
 email: xiaotuoxie616@gmail.com
 description: 一切都是最好的安排
 baseurl: "/miaoyu-yang-blog" # the subpath of your site, e.g. /blog
@@ -34,3 +36,4 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
+- README.md 
