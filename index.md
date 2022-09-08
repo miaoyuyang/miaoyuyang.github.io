@@ -7,4 +7,4 @@ image: null
 author: null
 show_tile: false
 ---
-Spend your life in your own way.
+Improving the Learning Efficiency of DQN by An Unsupervised Auxiliary Task<br />Hu J., Wu, C., Yang M. Improving the learning efficiency of DQN by an unsupervised auxiliary task. 12th International conference on agents and artificial intelligence. 2020. pp. 29. 
