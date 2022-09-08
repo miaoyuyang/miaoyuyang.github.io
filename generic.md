@@ -2,6 +2,7 @@
 layout: post
 title: Education
 description: Yale University, MS in Computer Science, Jan 2022-Dec 2022<br /><br />Michigan State University, BS in Computer Science, Aug 2017-Dec 2021
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
