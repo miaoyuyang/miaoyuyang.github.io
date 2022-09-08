@@ -1,15 +1,12 @@
 # site settings
-title: Hello
-subtitle: World!
 email: xiaotuoxie616@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: 一切都是最好的安排
+baseurl: "/miaoyu-yang-blog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 91 Mansfiled St
 city: New Haven
 state: CT
-zip_code: 06511
 country: United States of America
 phone: (805) 490-9018
 
@@ -23,13 +20,9 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/miaoyuyang
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  Instagram: https://www.instagram.com/miaoyu.yang.1
+  LinkedIn: 
+  TikTok(China): https://v.douyin.com/6ymgq4u
 
 # build settings
 markdown: kramdown
