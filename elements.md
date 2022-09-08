@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: It's my life
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
