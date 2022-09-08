@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main">
+<div√ id="main">
 
 <!-- One -->
 <section id="one">
@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>??? byebye</h2>
 		</header>
 		<p>My world !!!!</p>
 		<ul class="actions">
