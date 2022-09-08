@@ -1,7 +1,7 @@
 ---
 title: Employment
 layout: landing
-description: 'Intern Software Engineer in Senior Capstone Project, TechSmith, Michigan<br />Co-founder, Bicon Xinrongti, China<br />Intern in R & D, Youshi Medical (Suzhou) Ltd., China'
+description: 'Co-founder, Bicon Xinrongti, China<br />Intern Software Engineer in Senior Capstone Project, TechSmith, Michigan<br />Intern in R & D, Youshi Medical (Suzhou) Ltd., China'
 image: assets/images/em.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>TechSmith, Michigan, USA</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Deployed and hosted static web resources on the template creator platform to create the HTML end<br />Created and managed table data uses Microsoft Azure service for data storage and sign-in<br />Added dynamic interactivity to the static webpage via Javascript programming<br />Output: Winner of the Design Day MSU Federal Credit Union Praxis Award</p>
 	</div>
 </section>
 
@@ -28,25 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Bicon Xinrongti, China</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A full-stack e-commerce APP design & development for B2C online trading</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
