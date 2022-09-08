@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Yale University, CT, USA                 Jan 2022-Dec 2022 (expected)</h2>
+			<h2>Yale University (Jan 2022-Dec 2022)</h2>
 		</header>
 		<p>Master of Science in Computer Science<br />Coursework: Natural Language Processing, Computer System design, Intelligent Robotics, Operating System, Automated Decision Systems (Honor)</p>
 	</div>
@@ -22,11 +22,18 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Michigan State University, MI, USA       Aug 2017-Dec 2021</h2>
+			<h2>Michigan State University (Aug 2017-Dec 2021)</h2>
 		</header>
 		<p>Bachelor of Science in Computer Science, GPA: 3.899/4.0<br />Coursework: Database Systems (4.0), Mobile App Development (4.0), Software Design (4.0), Media Process and Computing (4.0), Computer Graphics (4.0), Computer Graphics (4.0)</p>
 	</div>
 </section>
 
-  
-Honors & Awards: Graduate with honors (2021); Undergraduate diploma project: MSU Federal Credit Union Praxis Award (most technologically challenging, the only one awarded in CS undergraduates, 2021); Dean's list (each term)  
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Honors & Awards</h2>
+		</header>
+		<p>Graduate with honors (2021)<br />Undergraduate diploma project: MSU Federal Credit Union Praxis Award (most technologically challenging, the only one awarded in CS undergraduates, 2021)<br />Dean's list (each term)</p>
+	</div>
+</section>
