@@ -1,13 +1,18 @@
 ---
 layout: post
-title: Generic
+title: Education
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Yale University, CT, USA                 Jan 2022-Dec 2022 (expected)
+Master of Science in Computer Science
+Coursework: Natural Language Processing, Computer System design, Intelligent Robotics, Operating System, Automated Decision Systems (Honor)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Michigan State University, MI, USA       Aug 2017-Dec 2021
+Bachelor of Science in Computer Science, GPA: 3.899/4.0
+Coursework: Database Systems (4.0), Mobile App Development (4.0), Software Design (4.0), Media Process and Computing (4.0), Computer Graphics (4.0), Computer Graphics (4.0) 
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Honors & Awards: Graduate with honors (2021); Undergraduate diploma project: MSU Federal Credit Union Praxis Award (most technologically challenging, the only one awarded in CS undergraduates, 2021); Dean's list (each term)  
+
