@@ -49,14 +49,4 @@ nav-menu: true
 		<p>Participated in the industry technology development and analysis projects in the field of medical big data<br />Optimized and maintained data analysis platform<br />Investigated and analyzed the demand of products and systems</p>
 	</div>
 </section>
-
-<!-- Three -->
-<section id="four">
-	<div class="inner">
-		<header class="major">
-			<h2>Research assistant, Performance Improvement of Deep Reinforcement Learning Algorithms</h2>
-		</header>
-		<p>Improved the network convergence speed and increased the optional long-term rewards for nearly 40 points in the DQN algorithm by applying cross-entropy loss as an unsupervised auxiliary task<br />Doubled the learning efficiency of Dyna-Q algorithm through rank-based and proportional-based prioritized sweeping<br />Decreased the time steps to optimal route from 14,000 to 8,000 using tabular Q-learning algorithm and DQN algorithm by adjusting amplitude as well as adding Gaussian Random Noise Item to the initial value<br />Output: Improving the Learning Efficiency of DQN by An Unsupervised Auxiliary Task<br />Hu J., Wu, C., Yang M. Improving the learning efficiency of DQN by an unsupervised auxiliary task. 12th International conference on agents and artificial intelligence.  2020. pp. 29.</p>
-	</div>
-</section>
 </div>
