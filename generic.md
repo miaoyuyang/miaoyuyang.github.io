@@ -12,9 +12,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Yale University (Jan 2022-Dec 2022)</h2>
+			<h2>Yale University (Expected Dec 2022)</h2>
 		</header>
-		<p>Master of Science in Computer Science<br />Coursework: Natural Language Processing, Computer System design, Intelligent Robotics, Operating System, Automated Decision Systems (Honor)</p>
+		<p>Master of Science in Computer Science, Evaluation: Honor<br />Coursework: Natural Language Processing, Computer System design, Intelligent Robotics, Operating System, Automated Decision Systems (Honor)</p>
 	</div>
 </section>
 
