@@ -1,6 +1,6 @@
 ---
 layout: page
-title: It's my life
+title: About Me
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,11 +12,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">I'm Miaoyu Yang</h2>
 <p>Peace and Love</p>
 <div class="row">
 	<div class="6u 12u$(small)">
